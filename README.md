@@ -128,8 +128,8 @@ O **EcoAgro** traduz esses conceitos em um diagnóstico acessível e educativo p
 | **Concurso** | Agrinho 2026 — Subcategoria 3, Ensino Médio |
 | **Tema** | Agro forte, futuro sustentável |
 | **Aluna** | Ana Julia de Souza Amorim |
-| **Orientadora** | Ana Julia de Souza Amorim |
-| **Escola** | Ana Julia de Souza Amorim |
+| **Orientadora** | Geisihelen Oliveira Silva |
+| **Escola** | Colégio Estadual Santa Inês |
 
 
 ---
