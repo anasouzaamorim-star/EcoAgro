@@ -127,9 +127,10 @@ O **EcoAgro** traduz esses conceitos em um diagnóstico acessível e educativo p
 | **Projeto** | EcoAgro — Diagnóstico de Sustentabilidade Rural |
 | **Concurso** | Agrinho 2026 — Subcategoria 3, Ensino Médio |
 | **Tema** | Agro forte, futuro sustentável |
+| **Aluna** | Ana Julia de Souza Amorim |
+| **Orientadora** | Ana Julia de Souza Amorim |
+| **Escola** | Ana Julia de Souza Amorim |
 
-Aluna: Ana Julia de Souza Amorim
-Orientadora: 
 
 ---
 
